@@ -24,7 +24,7 @@ This project presents a comprehensive **Superstore Sales Performance Dashboard**
 
 1. **Data Import:** Loaded the Orders data into Power BI.
 2. **Data Preparation:** Verified data types; cleaned missing or duplicate records.
-3. **Measures & Columns:** Created DAX measures (Total Sales, Total Profit, Total Quantity) and extracted `Year` from Order Date.
+3. **Measures & Columns:** Created DAX measures (Total Sales, Total Profit, Total Quantity) and extracted Year from Order Date.
 4. **Dashboard Layout:** Arranged slicers, KPI cards, matrix, and charts for interactive analysis.
 5. **Design Enhancements:** Added headings, formatted visuals with borders and shadows for a professional look.
 6. **Interactivity:** Enabled cross-filtering and applied conditional formatting.
